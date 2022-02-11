@@ -1,13 +1,19 @@
 // Parameters for runtime
-var fps = 4;
+var fps = 1;
 resolution = 5;
 var type = {
     1: 'orange',
     2: 'red',
     3: 'blue',
     4: 'gray',
-    5: 'black'
+    5: 'black',
+    6: 'white',
+    7: 'aquamarine',
+    8: 'purple',
+    9: 'deeppink',
+    10: 'darkblue'
 };
+
 var generationLimit = -1;
 
 // Logic and code
